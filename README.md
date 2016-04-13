@@ -9,5 +9,4 @@ Today we will discuss:
 - merging
 - pull requests
 - forks 
-- etc .. 
 
